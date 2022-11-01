@@ -16,9 +16,10 @@ html{
     height: 61px;
     font-weight: 900;
 }
-.text input{
+.text p{
     background: #4A4A4A;
-    border: 0px;
+    margin-top: 7%;
+    font-size: 40px;
 }
 .buttons{
     display: grid;
@@ -89,5 +90,21 @@ html{
     }
     .text{
         height: 22%;
+    }
+    .cero{
+        width: 144%;
+        border-radius: 30px;
+    }
+    .punto{
+        margin-left: 107%;
+    }
+    .igual{
+        margin-left: 107%;
+    }
+    .buttons{
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
+        padding: 4px;
+        margin-left: 43px;
     }
 }
