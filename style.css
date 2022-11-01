@@ -80,11 +80,14 @@ html{
     }
     .button{
         border-radius: 100%;
-    width: 70px;
-    height: 70px;
-    font-size: 41px;
-    border: 0px solid;
-    margin: 13px;
-    cursor: pointer;
+        width: 65px;
+        height: 65px;
+        font-size: 35px;
+        border: 0px solid;
+        margin: 10px;
+        cursor: pointer;
+    }
+    .text{
+        height: 22%;
     }
 }
