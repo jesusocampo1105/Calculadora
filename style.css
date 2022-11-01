@@ -1,3 +1,8 @@
+html{
+    display: flex;
+    justify-content: center;
+    margin-top: 330px;
+}
 .calculator{
     border: 0px solid;
     background: #4A4A4A;
@@ -51,4 +56,35 @@
 }
 .igual{
     margin-left: 103%;
+}
+
+@media (min-width: 640px) {
+    html{
+        margin-top: 330px;
+    }
+
+    .calculator{
+        width: 370px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    html{
+        margin-top: 25px;
+    }
+
+    .calculator{
+        width: 700px;
+        height: 578px;
+    }
+    .button{
+        border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    font-size: 41px;
+    border: 0px solid;
+    margin: 13px;
+    cursor: pointer;
+    }
 }
