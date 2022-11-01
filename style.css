@@ -1,7 +1,7 @@
 html{
     display: flex;
     justify-content: center;
-    margin-top: 330px;
+    margin-top: 220px;
 }
 .calculator{
     border: 0px solid;
@@ -71,7 +71,7 @@ html{
 
 @media (min-width: 1200px) {
     html{
-        margin-top: 25px;
+        margin-top: 50px;
     }
 
     .calculator{
