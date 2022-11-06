@@ -59,6 +59,7 @@ html{
     margin-left: 103%;
 }
 
+/* Tamaños en @media para responsive */
 @media (min-width: 640px) {
     html{
         margin-top: 330px;
@@ -69,7 +70,7 @@ html{
     }
 }
 
-
+/* Tamaños en @media para responsive */
 @media (min-width: 1200px) {
     html{
         margin-top: 50px;
