@@ -133,7 +133,7 @@ html{
     background: none;
     color: #fff;
 }
-.switch span:nth-child(){
+.switch span:nth-child(2){
     margin-top: 10%;
 }
 .switch::after{
