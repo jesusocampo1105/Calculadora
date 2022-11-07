@@ -125,3 +125,10 @@ function resolver(){
     resultado.textContent = "";
     resultado.textContent = res;
   }
+
+  const btnSwitch = document.querySelector("#switch");
+
+  btnSwitch.addEventListener("click", () => {
+    document.body.classList.toggle("dark");
+    btnSwitch.classList.toggle("active");
+  });
