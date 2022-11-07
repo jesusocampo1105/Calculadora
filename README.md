@@ -58,3 +58,12 @@ Por ultimo generamos la acción de cada boton que son funciones normales:
 ![image](https://user-images.githubusercontent.com/70729836/200160051-2d34183b-a57b-4d5d-b6ec-7659821b9660.png)
 
 Por cada sección que se codifico, se dejo documentado para proximos desarrolladores o para la escalabilidad de la aplicación tanto en el codigo como en este README.md.
+
+
+producto final:
+
+![image](https://user-images.githubusercontent.com/70729836/200229012-17ddb2b6-e0c6-4487-8aea-e072bd0232b9.png)
+
+![image](https://user-images.githubusercontent.com/70729836/200229130-a6906821-8cce-4cba-a3a4-b5affaa42419.png)
+
+
